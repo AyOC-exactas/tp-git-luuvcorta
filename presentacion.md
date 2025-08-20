@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola! Mi nombre es Luciana Vanini.
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta leer.
 
-Mi instrucción favorita del manual de intel es...
+Mi instrucción favorita del manual de intel es... no cuento con el conocimiento necesario para determinar esto (¡aún!).
